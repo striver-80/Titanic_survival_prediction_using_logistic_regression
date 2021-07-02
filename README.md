@@ -20,4 +20,4 @@ For model traning I have used Logistic Regression from sklearn module with itera
 The model is evaluated on the basis of the accuracy_score and on the basis of confusion matrix.
 
 ## Performance:
-The predicted values for training dataset and for test dataset have been saved in the train_submission.csv and test_submission.csv files respectively.
+The predicted values for training dataset and for test dataset have been saved in the train_result.csv and test_result.csv files respectively.
