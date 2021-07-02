@@ -1,0 +1,2 @@
+# Titanic_survival_prediction_using_logistic_regression
+A simple titanic survival project using logistic regression
