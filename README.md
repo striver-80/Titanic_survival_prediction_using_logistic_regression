@@ -13,7 +13,7 @@ The column cosists of more than 50% missing data has been dropped and the other 
 ## Data Preprocesing:
 For the important columns with categorical value have been replaced with numerical values for training purpose. (E.g male is replaced with 1 and female is replaced with 0)
 
-## Model Training
+## Model Training:
 For model traning I have used Logistic Regression from sklearn module with iteration number 1000 i.e max_iter = 1000.
 
 ## Model Evaluation:
